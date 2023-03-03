@@ -1,1 +1,6 @@
-git pull
+$ git clone <repo>
+$ touch test
+$ git add test
+$ git pull
+$ git commit -m "Initial commit"
+$ git push origin main
